@@ -30,7 +30,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto desenvolvido pela plataforma Alura, e replicado por min.
+Projeto desenvolvido por min, com ajuda da minha esposa. A BOX401 foi um projeto real que criamos para vender canecas, porém por motivos maiores,
+não seguimos com ela. Porém um dos primeiros sites que eu criei "sozinho" foi esse, e agora com um pouco mais de conhecimento com React, criei com ele,
+e com resposividade para telas menores.
 
 
 ## :memo: Licença
