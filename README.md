@@ -1,4 +1,4 @@
-<h1 align="center"> Skate RZC </h1>
+<h1 align="center"> BOX401 </h1>
 
 
 
@@ -25,8 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
-- Ajax
-
+- React
 
 ## 💻 Projeto
 
